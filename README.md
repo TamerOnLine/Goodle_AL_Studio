@@ -1,4 +1,4 @@
-# 🤖 TamerOnline - Google AI Studio (Gemini Chat CLI)
+# 🤖 Google AI Studio (Gemini Chat CLI)
 
 An interactive chat interface using Google's Gemini model, built with Python.  
 This project allows you to start a chat session with the Gemini-1.5-Pro model via the terminal after configuring your API key.
